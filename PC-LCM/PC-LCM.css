@@ -1,0 +1,2717 @@
+html, body
+{
+   width: 100%;
+   height: 100%;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #FFFDFD;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   left:0;top:0;right:0;height:156px;
+}
+#wb_Line8
+{
+   font-size: 0;
+}
+#Line8
+{
+   border-width: 0;
+   height: 51px;
+   width: 8px;
+}
+#wb_Image1
+{
+   left:0px;
+   top:140px;
+   width:50%;
+   height:400px;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer2
+{
+   background-color: #000000;
+   background-image: none;
+   border: 1px #CCCCCC solid;
+   filter: alpha(opacity=30);
+   opacity: 0.30;
+   left:0px;
+   top:140px;
+   width:100%;
+   height:400px;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   color:#FFFFFF;
+   font-weight: 400;
+   font-size:60px;
+   left:54px;top:265px;width:240px;height:88px;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#Shape7
+{
+   border-width: 0;
+   width:100%;
+   height:100%;
+}
+#wb_Shape7
+{
+   left:0px;
+   top:538px;
+   width:100%;
+   height:490px;
+}
+#wb_Heading3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+   left:0;
+   top:56px;
+   width:100%;
+   height:25px;
+}
+#Heading3
+{
+   color: #FFFFFF;
+   font-family: "Segoe UI";
+   font-weight: bold;
+   font-size: 21px;
+   margin: 0;
+   text-align: center;
+}
+#Line1
+{
+   color: #FFFFFF;
+   background-color: #FFFFFF;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+   left:calc(50% - 30px);top:92px;
+}
+#wb_Image3
+{
+   left:0;top:0;width:280px;height:280px;
+}
+#Image3
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image4
+{
+   left:calc(280px + 40px);top:0;width:280px;height:280px;
+}
+#Image4
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image5
+{
+   left:calc(560px + 80px);top:0;width:280px;height:280px;
+}
+#Image5
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   color: #FFFFFF;
+   text-shadow: 0px 0px 76px #00000029;
+   font-weight:600;
+   font-size:16px;
+   left:0;
+   top:50%;
+   width:100%;
+   height:54px;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   color: #FFFFFF;
+   text-shadow: 0px 0px 76px #00000029;
+   font-weight:600;
+   font-size:16px;
+   left:0;
+   top:50%;
+   width:100%;
+   height:45px;
+}
+#wb_Text8 div
+{
+   text-align: center;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   color: #FFFFFF;
+   text-shadow: 0px 0px 76px #00000029;
+   font-weight:600;
+   font-size:16px;
+   left:0;
+   top:50%;
+   width:100%;
+   height:45px;
+}
+#wb_Text9 div
+{
+   text-align: center;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+   left:0;top:1110px;width:100%;height:24px;
+}
+#Heading1
+{
+   color: #000000;
+   font-family: "Segoe UI";
+   font-weight: bold;
+   font-size: 19px;
+   margin: 0;
+   text-align: center;
+}
+#Line2
+{
+   color: #08246F;
+   background-color: #08246F;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+   top:36px;
+}
+#Image6
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image13
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image14
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image16
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text12 div
+{
+   text-align: center;
+}
+#wb_Text16 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   font: Bold 40px/60px "Roboto";
+   letter-spacing: 0px;
+   color: #1C1C1C;
+   opacity: 0.1;
+}
+#wb_Text16 div
+{
+   text-align: left;
+   white-space: nowrap;
+}
+#Shape1
+{
+   border-width: 0;
+}
+#Image26
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text17 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   font: Bold 40px/60px "Roboto";
+   letter-spacing: 0px;
+   color: #1C1C1C;
+   opacity: 0.1;
+}
+#wb_Text17 div
+{
+   text-align: left;
+}
+#wb_Text18 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text18 div
+{
+   text-align: center;
+}
+#wb_Text19 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text19 div
+{
+   text-align: center;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#wb_Text21 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text21 div
+{
+   text-align: center;
+}
+#wb_Text22 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text22 div
+{
+   text-align: center;
+}
+#wb_Text20 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   font: Bold 40px/60px "Roboto";
+   letter-spacing: 0px;
+   color: #1C1C1C;
+   opacity: 0.1;
+}
+#wb_Text20 div
+{
+   text-align: left;
+}
+#wb_Line5
+{
+   font-size: 0;
+}
+#Line5
+{
+   border-width: 0;
+   height: 51px;
+   width: 8px;
+}
+#wb_Text31 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   font: Bold 40px/60px "Roboto";
+   letter-spacing: 0px;
+   color: #1C1C1C;
+   opacity: 0.1;
+}
+#wb_Text31 div
+{
+   text-align: left;
+}
+#wb_Text79 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 600;
+   color: #1C1C1C;
+}
+#wb_Text79 div
+{
+   text-align: center;
+}
+#wb_Line12
+{
+   font-size: 0;
+}
+#Line12
+{
+   border-width: 0;
+   height: 39px;
+   width: 8px;
+}
+#wb_Line16
+{
+   font-size: 0;
+}
+#Line16
+{
+   border-width: 0;
+   height: 69px;
+   width: 8px;
+}
+#wb_Text80 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 600;
+   color: #1C1C1C;
+}
+#wb_Text80 div
+{
+   text-align: center;
+}
+#wb_Line17
+{
+   font-size: 0;
+}
+#Line17
+{
+   border-width: 0;
+   height: 77px;
+   width: 8px;
+}
+#wb_Line18
+{
+   font-size: 0;
+}
+#Line18
+{
+   border-width: 0;
+   height: 242px;
+   width: 8px;
+}
+#wb_Line19
+{
+   font-size: 0;
+}
+#Line19
+{
+   border-width: 0;
+   height: 239px;
+   width: 8px;
+}
+#wb_Text82 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 600;
+   color: #1C1C1C;
+}
+#wb_Text82 div
+{
+   text-align: center;
+}
+#wb_Line20
+{
+   font-size: 0;
+}
+#Line20
+{
+   border-width: 0;
+   height: 185px;
+   width: 9px;
+}
+#wb_Line13
+{
+   font-size: 0;
+}
+#Line13
+{
+   border-width: 0;
+   height: 192px;
+   width: 9px;
+}
+#wb_Text81 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 600;
+   color: #1C1C1C;
+}
+#wb_Text81 div
+{
+   text-align: center;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   position:absolute;
+   left:28.08px;
+   top:0;
+   width:150px;
+   height:22px;
+   z-index:0;
+   color:#022C50;font-family: 'Roboto', sans-serif;font-weight: bold; font-size:22px;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   position:absolute;
+   left:67.334%;
+   top:47px;
+   width:164px;
+   height:12px;
+   z-index:1;
+   text-align:left; 
+   color:#022C50;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 300;
+   font-size:12px;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   position:absolute;
+   left:67.334%;
+   top:66px;
+   width:166px;
+   height:13px;
+   z-index:2;
+   color:#022C50;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 300; 
+   font-size:12px;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Image44
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+.header {
+   position: relative;
+   min-width: 1340px;
+   height: 105px!important;
+}
+.header__content {
+   width: 1340px;
+   height: 100px;
+   margin: 0 auto;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+}
+.header__left-col {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: start;
+   -ms-flex-pack: start;
+   justify-content: flex-start;
+   width: 50%;
+}
+.header__right-col {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: end;
+   -ms-flex-pack: end;
+   justify-content: flex-end;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   width: 50%;
+}
+.header__logo {
+   padding: 27px 0 0 10px;
+   margin: 0;
+}
+.header__mob {
+   display: none;
+   position: relative;
+   width: 100%;
+   height: 145px!important;
+}
+.header__mob .header__content {
+   width: 100%;
+   height: 100%;
+   margin: 0 auto;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+}
+.header__mob .header__left-col {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: start;
+   -ms-flex-pack: start;
+   justify-content: flex-start;
+   width: 70%;
+}
+.header__mob .header__right-col {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: end;
+   -ms-flex-pack: end;
+   justify-content: flex-end;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   width: 30%;
+}
+.header__mob .header__logo {
+   padding: 25px 0 0 5%;
+   margin: 0;
+   width: 100%;
+}
+#Image45
+{
+   border: 0px #000000 solid;
+   padding: 3px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 21px;
+   height: 18px;
+}
+#Button1
+{
+   border: 1px #2E6DA4 solid;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   background-color: #1274E0;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 18px;
+   position:absolute;
+   left:0;
+   top:0;
+   width:182px;
+   height:40px;
+   z-index:6;
+   padding-right: 10%;
+   text-align: right;
+   cursor: pointer;
+}
+#wb_Image46{
+   position:absolute;
+
+   left:83.19%;
+   top:30px;
+   width:182px;
+   height:40px;
+}
+#Image46
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 10%;
+   left: 0;
+   top: 6px;
+   position:absolute;
+   width:28px;
+   height:28px;
+   z-index:7;
+}
+#wb_CssMenu1
+{
+   border: 0px #C0C0C0 solid;
+   background-color: transparent;
+   position:absolute;
+   left:20px;
+   top:105px;
+   width:96.667%;
+   height:30px;
+   text-align:center;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   height: 100%;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 0px 0px 0px;
+   
+   border-left: 1px #CCCCCC solid;
+   border-right: 1px #CCCCCC solid;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #022C50;
+   background-color: #FFFFFF;
+   background-image: none;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 12px;
+   font-style: normal;
+   text-decoration: none;
+   height: 30px;
+   line-height: 30px;
+   padding: 0px 0px 0px 0px;
+   vertical-align: middle;
+   text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover, #wb_CssMenu1 .active
+{
+   color: #FFFFFF;
+   background-color: #1274E0;
+   height: 30px;
+   background-image: none;
+   border: 1px #2E6DA4 solid;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+
+.show {
+   display: block;
+}
+.hide {
+   display: none;
+}
+
+#wb_Image50{
+   position: absolute;
+   left: calc(100% - 5% - 56px);
+   top: 25px;
+   width: 56px;
+   height: 56px;
+   z-index: 80;
+}
+#wb_Image50 i{
+   font-size: 60px;
+   width: 56px;
+   height: 56px;
+   color: #022C50;
+}
+#wb_Image51{
+   position: absolute;
+   left: calc(100% - 20% - 56px);
+   top: 25px;
+   width: 56px;
+   height: 56px;
+   z-index: 80;
+}
+#wb_Image51 i{
+   font-size: 60px;
+   width: 56px;
+   height: 56px;
+   color: #022C50;
+}
+#wb_CssMenu3
+{
+   border: 0px #C0C0C0 solid;
+   background-color: transparent;
+   position:absolute;
+   left:0;
+   top:145px;
+   width:100%;
+   height:30px;
+   text-align:center;
+}
+#wb_CssMenu3 ul
+{
+   list-style-type: none;
+   margin-top: -31px;
+   padding: 0;
+}
+#wb_CssMenu3 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 0px 0px 0px;
+}
+#wb_CssMenu3 a
+{
+   display: block;
+   float: left;
+   color: #022C50;
+   border-left: 1px #CCCCCC solid;
+   border-right: 1px #CCCCCC solid;
+   background-color: #FFFFFF;
+   background-image: none;
+   font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 12px;
+   font-style: normal;
+   text-decoration: none;
+   height: 26px;
+   padding: 0px 0px 0px 0px;
+   vertical-align: middle;
+   line-height: 26px;
+   text-align: center;
+}
+#wb_CssMenu3 li:hover a, #wb_CssMenu3 a:hover, #wb_CssMenu3 .active
+{
+   color: #FFFFFF;
+   background-color: #1274E0;
+   height: max-content;
+   background-image: none;
+   border: 1px #2E6DA4 solid;
+}
+#wb_CssMenu3 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu3 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu3 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#wb_Text83 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   color:#FFFFFF;
+   font-weight: 600;
+   font-size:36px;
+   left:3.75%;
+   top:367px;
+   width:598px;
+   height:118px;
+}
+#wb_Text83 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 8px;color:#FFFFFF;
+   position:absolute;
+   left:48.5%;
+   top:470px;
+   width:36px;
+   height:8px;
+   text-align:center;
+   z-index:54;
+}
+#wb_Text4 div
+{
+   text-align: center;
+}
+#Image17
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image17
+{
+   left:calc(100% - 330px);top:190px;width:300px;height:300px;
+}
+#wb_Text44 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text44 div
+{
+   text-align: center;
+}
+#wb_Text48 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text48 div
+{
+   text-align: left;
+}
+#wb_Text49 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text49 div
+{
+   text-align: center;
+}
+#wb_Text51 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text51 div
+{
+   text-align: center;
+}
+#wb_Text53 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text53 div
+{
+   text-align: center;
+}
+#wb_Text47 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text47 div
+{
+   text-align: center;
+}
+#wb_Text45 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text45 div
+{
+   text-align: center;
+}
+#wb_Text46 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text46 div
+{
+   text-align: center;
+}
+#wb_Text52 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text52 div
+{
+   text-align: left;
+}
+#wb_Text50 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text50 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text11 div
+{
+   text-align: center;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text10 div
+{
+   text-align: center;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text13 div
+{
+   text-align: center;
+}
+#wb_Heading2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+   left:0;top:0;width:100%;height:24px;
+}
+#Heading2
+{
+   color: #000000;
+   font-family: "Segoe UI";
+   font-weight: bold;
+   font-size: 19px;
+   margin: 0;
+   text-align: center;
+}
+#Line14
+{
+   color: #08246F;
+   background-color: #08246F;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+   top:14px;
+}
+#Shape8
+{
+   border-width: 0;
+}
+#Shape9
+{
+   border-width: 0;
+}
+#Shape10
+{
+   border-width: 0;
+}
+#Shape11
+{
+   border-width: 0;
+}
+#Shape12
+{
+   border-width: 0;
+}
+#Shape16
+{
+   border-width: 0;
+}
+#Shape17
+{
+   border-width: 0;
+}
+#Shape13
+{
+   border-width: 0;
+}
+#Shape14
+{
+   border-width: 0;
+}
+#Shape15
+{
+   border-width: 0;
+}
+#Shape18
+{
+   border-width: 0;
+}
+#Shape19
+{
+   border-width: 0;
+}
+#wb_Shape19 , #wb_Shape18 , #wb_Shape15 , #wb_Shape8 , #wb_Shape14 , #wb_Shape13
+{
+   width:148px;
+}
+#wb_Text55 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text55 div
+{
+   text-align: center;
+}
+#wb_Text57 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text57 div
+{
+   text-align: center;
+}
+#wb_Text58 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text58 div
+{
+   text-align: center;
+}
+#wb_Text59 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text59 div
+{
+   text-align: center;
+}
+#wb_Text60 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text60 div
+{
+   text-align: center;
+}
+#wb_Text61 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text61 div
+{
+   text-align: center;
+}
+#wb_Text62 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text62 div
+{
+   text-align: center;
+}
+#wb_Text63 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text63 div
+{
+   text-align: center;
+}
+#wb_Text64 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text64 div
+{
+   text-align: center;
+}
+#wb_Text65 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text65 div
+{
+   text-align: center;
+}
+#wb_Text66 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text66 div
+{
+   text-align: center;
+}
+#wb_Text67 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text67 div
+{
+   text-align: center;
+}
+#wb_Text68 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text68 div
+{
+   text-align: center;
+}
+#wb_Text69 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text69 div
+{
+   text-align: center;
+}
+#wb_Text70 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text70 div
+{
+   text-align: center;
+}
+#wb_Text71 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text71 div
+{
+   text-align: center;
+}
+#wb_Text72 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text72 div
+{
+   text-align: center;
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text14 div
+{
+   text-align: center;
+}
+#wb_Heading4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+}
+#Heading4
+{
+   color: #000000;
+   font-family: "Segoe UI";
+   font-weight: bold;
+   font-size: 19px;
+   margin: 0;
+   text-align: center;
+}
+#Line3
+{
+   color: #08246F;
+   background-color: #08246F;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+}
+#wb_Line4
+{
+   font-size: 0;
+}
+#Line4
+{
+   border-width: 0;
+   height: 39px;
+   width: 8px;
+}
+#Shape5
+{
+   border-width: 0;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text15 div
+{
+   text-align: center;
+}
+#wb_Text23 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text23 div
+{
+   text-align: center;
+}
+#wb_CssMenu2
+{
+   border: 0px #C0C0C0 solid;
+   background-color: #2E456C;
+   position:absolute;left:0px;top:3639px;width:100%;height:29px;text-align:center;z-index:107;
+}
+#wb_CssMenu2 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_CssMenu2 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 20px 0px 0px;
+}
+#wb_CssMenu2 a
+{
+   display: block;
+   float: left;
+   color: #FFFFFF;
+   border: 0px #CCCCCC solid;
+   background-color: transparent;
+   background-image: url(../images/ico_triangle.png);
+   background-repeat: no-repeat;
+   background-position: left center;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   font-style: normal;
+   text-decoration: none;
+   height: 28px;
+   line-height: 28px;
+   padding: 0px 5px 0px 15px;
+   vertical-align: middle;
+   text-align: center;
+}
+#wb_CssMenu2 li:hover a, #wb_CssMenu2 a:hover
+{
+   color: #D7092F;
+   background-color: transparent;
+   background-image: url(../images/ico_triangle.png);
+   background-repeat: no-repeat;
+   background-position: left center;
+   border: 0px #2E6DA4 solid;
+}
+#wb_CssMenu2 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu2 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu2 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#Image49
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image49
+{
+   left: calc(50% - 143px);top:3678px;width:286px;height:50px;
+}
+#Image7
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Shape4
+{
+   left:0px;
+   top:3216px;
+   width:100%;
+   height:424px;
+}
+#Shape4
+{
+   border-width: 0;
+}
+#wb_Shape6
+{
+   left: 10%;
+   width:80%;
+   top:184px;
+   height:180px;
+}
+#Shape6
+{
+   border-width: 0;
+}
+#wb_Text38 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   color: #000000;
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 14px;
+   left:0;top:0;
+   width:100%;
+   height:23px;
+}
+#wb_Text38 div
+{
+   text-align: left;
+}
+#wb_Text39 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   color: #022C50;
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 40px;
+   left:132px;
+   top:23px;
+   width:260px;
+   height:54px;
+}
+#wb_Text39 div
+{
+   text-align: left;
+}
+#wb_Text40 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 12px;
+   color:#022C50;
+   left:153.596px;
+   top:82px;
+   width:173px;
+   height:12px;
+}
+#wb_Text40 div
+{
+   text-align: left;
+}
+#wb_Text41 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 12px;
+   color:#022C50;
+   left:153.596px;
+   top:103px;
+   width:175px;
+   height:12px;
+}
+#wb_Text41 div
+{
+   text-align: left;
+}
+#wb_Text42 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   color: #000000;
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 14px;
+   left:0;
+   top:0;
+   width:100%;
+   height:23px;
+}
+#wb_Text42 div
+{
+   text-align: center;
+}
+#Button21
+{
+   border: 0px #1274E0 solid;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   background-color: #1274E0;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: 游ゴシック体, Hiragino ,'Hiragino' , 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+   font-weight: 600;
+   font-size: 18px;
+   position:absolute;
+   left:0;
+   top:0;
+   width:100%;
+   height:64px;
+   z-index:109;
+   text-align: right;
+   padding-right: 20%;
+   cursor: pointer;
+}
+#Image47
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image47
+{
+   left:91.328px;top:32.11px;width:28px;height:28px;
+}
+#wb_Image48{
+   position:absolute;
+   left:calc(50% - 147.5px);
+   top:34px;
+   width: 295px;
+   height:64px;
+}
+#Image48
+{
+   border: 0px #000000 solid;
+   position:absolute;
+   padding: 0px 0px 0px 15%;
+   left: 0;
+   top: 6px;
+   width: 45px;
+   height: 45px;
+   z-index:111;
+}
+#wb_Heading5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+}
+#Heading5
+{
+   color: #FFFFFF;
+   font-family: "Roboto";
+   font-weight: bold;
+   font-size: 30px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Heading10
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+}
+#Heading10
+{
+   color: #FFFFFF;
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 14px;
+   margin: 0;
+   text-align: center;
+}
+#Line6
+{
+   color: #000000;
+   background-color: #000000;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+   left:50%;
+   top:30px;
+   width:1px;
+   height:103px;
+}
+#Shape20
+{
+   border-width: 0;
+}
+#wb_Text24 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text24 div
+{
+   text-align: center;
+}
+#wb_Text25 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text25 div
+{
+   text-align: center;
+}
+#Shape21
+{
+   border-width: 0;
+}
+#wb_Text26 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text26 div
+{
+   text-align: center;
+}
+#wb_Text27 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text27 div
+{
+   text-align: center;
+}
+#Shape22
+{
+   border-width: 0;
+}
+#wb_Text28 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text28 div
+{
+   text-align: center;
+}
+#wb_Text29 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text29 div
+{
+   text-align: center;
+}
+#Shape23
+{
+   border-width: 0;
+}
+#wb_Text30 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text30 div
+{
+   text-align: center;
+}
+#wb_Text32 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+#wb_Text32 div
+{
+   text-align: center;
+}
+#Shape24
+{
+   border-width: 0;
+}
+#wb_Text33 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text33 div
+{
+   text-align: center;
+}
+#wb_Text34 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text34 div
+{
+   text-align: center;
+}
+#l1
+{
+   width: 8.053%;
+}
+#l2
+{
+   width: 15%
+}
+#l3
+{
+   width: 9.484%;
+}
+#l4
+{
+   width: 11.21%;
+}
+#l5
+{
+   width: 12.845%;
+   line-height: 1.30;
+}
+#l6
+{
+   width: 12.845%;
+   line-height: 1.30;
+}
+#l7
+{
+   width: 11.9%;
+   line-height: 1.30;
+}
+#l8
+{
+   width: 16.984%;
+   line-height: 1.30;
+}
+#l55 , #l66 {
+   width: 72px;
+   line-height: 1.30;
+   padding-left: calc(50% - 36px);
+}
+#l77 {
+   width: 62px;
+   line-height: 1.30;
+   padding-left: calc(50% - 31px);
+}
+#l88{
+   width: 126px;
+   line-height: 1.30;
+   padding-left: calc(50% - 63px);
+}
+#wb_Text18 , #wb_Text21, #wb_Text15, #wb_Text24, #wb_Text26, #wb_Text28, #wb_Text30, #wb_Text33
+{
+   font-size: 12px;
+   font-weight: 600;
+   color: #1C1C1C;
+}
+#wb_Text19 , #wb_Text22, #wb_Text23, #wb_Text25, #wb_Text27, #wb_Text29, #wb_Text32, #wb_Text34
+{
+   font-size: 12px;
+   font-weight: 300;
+   color: #000000;
+}
+
+#cont1
+{
+   left:calc(50% - 460px);
+   top:153px;
+   width:920px;
+   height:280px;
+}
+#cont2
+{
+   left:calc(50% - 460px);
+   top:1189px;
+   width:920px;
+   height:161px;
+}
+#cc1
+{
+   width: 200px;height:161px;
+}
+#cc2
+{
+   width: 200px;height:161px;left:240px;
+}
+#cc3
+{
+   width: 200px;height:161px;left:480px;
+}
+#cc4
+{
+   width: 200px;height:161px;left:720px;
+}
+#cont3
+{
+   left:calc(50% - 478px) ;
+   width: 956px; 
+   height: 279px; 
+   top: 1445px;
+}
+#s1
+{
+   width: 150px; height: 200px; top: 79px;
+}
+#s2
+{
+   width: 150px; height: 200px; top: 79px; left:161px;
+}
+#s3
+{
+   width: 150px; height: 200px; top: 79px; left:323px;
+}
+#s4
+{
+   width: 150px; height: 200px; top: 79px; left:484px;
+}
+#s5
+{
+   width: 150px; height: 200px; top: 79px; left:644px;
+}
+#s6
+{
+   width: 150px; height: 200px; top: 79px; left:805px;
+}
+#cont4
+{
+   left:calc(50% - 30.29166667%) ;
+   width: 60.583333%; 
+   height: 1283px; 
+   top: 1833px;
+}
+#left-side
+{
+   left:0;
+   top:30px;
+   width:50%;
+   height:calc(100% - 30px);
+}
+#right-side
+{
+   left:50%;
+   top:30px;
+   width:50%;
+   height:calc(100% - 30px);
+}
+@media all and (max-width: 900px) {
+   
+}
+@media all and (max-width: 768px) {
+   #wb_Image47
+   {
+      left:0;
+      top:59px;
+      width:64px;
+      height:64px;
+   }
+   #wb_Image48{
+      
+      top:58px;
+      width: 100%;
+      left: 0;
+      height:64px;
+   }
+   #Image48{
+      padding-left: 22%;
+   }
+   #Button21{
+      
+    padding-right: 23%;
+   }
+   #right-side
+   {
+      left:85px;
+      top:425px;
+      width:calc(100% - 170px);
+      height:calc(100% - 455px);
+   }
+   #left-side
+   {
+      left:83px;
+      top:60px;
+      width:calc(100% - 166px);
+      height:calc(50% - 60px);
+   }
+   #wb_Text38
+   {
+      font-size: 24px;
+      height: 24px;
+   }
+   #wb_Text39
+   {
+      top: 53px;
+      left: 84px;
+      font-size: 60px;
+      height: 82px;
+      letter-spacing: -1.4px;
+      width: calc(100% - 84px);
+   }
+   #wb_Text40
+   {
+      top: 168px;
+      left: 90px;
+      font-size: 24px;
+      height: 24px;
+      width: calc(100% - 90px);
+   }
+   #wb_Text41
+   {
+      top: 222px;
+      left: 100px;
+      font-size: 20px;
+      height: 20px;
+      width: calc(100% - 118px);
+   }
+   #wb_Text42
+   {
+      top: 0;
+      left: 0;
+      font-size: 24px;
+      height: 24px;
+      width: 100%;
+   }
+   #Line6
+   {
+      top:364px;
+      left: 30px;
+      width:calc(100% - 60px);
+      height:1px;
+   }
+   #wb_Shape4
+   {
+      top:5233px;
+      width:100%;
+      height:973px;
+   }
+   #wb_Shape6
+   {
+      height:619px;
+   }
+   #cont4
+   {
+      left:30px ;
+      width: calc(100% - 60px); 
+      height: 1283px; 
+      top: 3850px;
+   }
+   #wb_Shape19 , #wb_Shape18 , #wb_Shape15 , #wb_Shape8 , #wb_Shape14 , #wb_Shape13
+   {
+      width:calc(100% - 2px);
+   }
+   #s1
+   {
+      width: 100%; 
+      height: 200px; 
+      top: 122px;
+      left: 0;
+   }
+   #s2
+   {
+      width: 100%; 
+      height: 200px; 
+      top: 362px; 
+      left:0;
+   }
+   #s3
+   {
+      width: 100%; 
+      height: 200px; 
+      top: 602px; 
+      left:0;
+   }
+   #s4
+   {
+      width: 100%; 
+      height: 200px; 
+      top: 842px; 
+      left:0;
+   }
+   #s5
+   {
+      width: 100%; 
+      height: 200px; 
+      top: 1082px; 
+      left:0;
+   }
+   #s6
+   {
+      width: 100%; 
+      height: 200px; 
+      top: 1322px; 
+      left:0;
+   }
+   #Line14
+   {
+      top: 62px;
+   }
+   #wb_Heading2
+   {
+      width:100%;
+      height:32px;
+   }
+   #Heading2
+   {
+      font-size: 32px;
+   }
+   #cont3
+   {
+      left:30px ;
+      width: calc(100% - 60px); 
+      height: 1524px; 
+      top: 2250px;
+   }
+   #cc1
+   {
+      width: 200px;
+      height:161px;
+   }
+   #cc2
+   {
+      width: 200px;
+      height:161px;
+      left:calc(100% - 200px);
+   }
+   #cc3
+   {
+      width: 200px;
+      height:161px;
+      left:0;
+      top: 201px;
+   }
+   #cc4
+   {
+      width: 200px;
+      height:161px;
+      left:calc(100% - 200px);
+      top: 201px;
+   }
+   #cont2
+   {
+      left:30px;
+      top:1789px;
+      width:calc(100% - 60px);
+      height:362px;
+   }
+   #Line2
+   {
+      top: 62px;
+   }
+   #wb_Heading1
+   {
+      left:0;
+      top:1667px;
+      width:100%;
+      height:32px;
+   }
+   #Heading1
+   {
+      font-size: 32px;
+   }
+   #wb_Text9 , #wb_Text8 , #wb_Text2
+   {
+      font-size: 18px;
+      font-weight: 600;
+      height: 50px;
+      text-shadow: 0px 0px 76px #00000029;
+   }
+   #wb_Image3
+   {
+      left:0;
+      top:0;
+      width:330px;
+      height:330px;
+   }
+   #wb_Image4
+   {
+      left:calc(100% - 330px);
+      top:0;
+      width:330px;
+      height:330px;
+   }
+   #wb_Image5
+   {
+      left:calc(50% - 140px);
+      top:370px;
+      width:330px;
+      height:330px;
+   }
+   #cont1 {
+      left: 30px;
+      top: 244px;
+      width: calc(100% - 60px);
+      height: 700px;
+   }
+   #wb_Heading3
+   {
+      top:101px;
+      height:32px;
+   }
+   #Heading3
+   {
+      font-size: 32px;
+   }
+   #Line1
+   {
+      top: 163px;
+   }
+   #wb_Shape7
+   {
+      left:0px;
+      top:545px;
+      width:100%;
+      height:1024px;
+   }
+   #wb_Text83 
+   {
+      font-size:24px;
+      left:30px;
+      top:367px;
+      width:384px;
+      height:60px;
+   }
+   #wb_Text3 
+   {
+      left: 30px;
+      height: 60px;
+   }
+   .header__mob 
+   {
+      display: block;
+   }
+   #wb_CssMenu1 , .header ,#wb_Image12 ,#wb_Text4 ,#wb_Image26 ,#wb_Text1 ,#wb_Image7 ,#wb_Image2
+   {
+      display: none;
+   }
+   #Layer2
+   {
+      top:145px;
+   }
+   #wb_Image1
+   {
+      left:0px;
+      top:145px;
+      width:100%;
+      height:400px;
+   }
+   #PageHeader1
+   {
+      height:145px;
+   }
+   #wb_CssMenu3 li ,#wb_CssMenu3 li.firstmain
+   {
+      float: left;
+      margin: 0;
+      padding: 15px 0 15px 15px;
+      height: 100px;
+      width:  100%;
+      border: #DFE4E5 solid 2px;
+   }
+   #wb_CssMenu3 ul
+   {
+      list-style-type: none;
+      margin-top: -31px;
+      padding: 0;
+      position: relative;
+      display: inline-grid;
+      left: 0;
+      width: 100%;
+      height: 100%;
+   }
+   #wb_CssMenu3 a
+   {
+      display: block;
+      float: left;
+      color: #1C1C1C;
+      border: 0px #CCCCCC solid;
+      background-color: transparent;
+      background-image: url(../images/ic-2.png);
+      background-repeat: no-repeat;
+      background-position: left center;
+      font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+      font-weight: 600;
+      font-size: 24px;
+      font-style: normal;
+      text-decoration: none;
+      width: calc(100% - 60px);
+      height: 100px;
+      line-height: 100px;
+      padding: 0px 0px 0px 60px;
+      vertical-align: middle;
+      text-align: left;
+   }
+   #wb_CssMenu3 {
+      background-color: #FFFFFF;
+      height: 832px;
+      overflow-y: auto;
+      white-space: break-spaces;
+   }
+   #wb_Image49{
+      padding-bottom: 25px;
+      top:6510px;
+   }
+   #wb_CssMenu2
+   {
+      left:0px;
+      top:6204px;
+      width:100%;
+      height:max-content;
+      text-align:center;
+      background: #0e3962;
+      z-index:41;
+   }
+   #wb_CssMenu2 ul
+   {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: relative;
+      display: inline-grid;
+      left: 0;
+      width: 100%;
+   }
+   #wb_CssMenu2 li
+   {
+      /* padding: 0 29px 0 0; */
+      height: 48px;
+   }
+   #wb_CssMenu2 a
+   {
+      display: block;
+      float: left;
+      color: #FFFFFF;
+      border-bottom: 1px dotted #879cb1;
+      /* background-color: transparent;
+      background-image: url(../images/ico_triangle.png);
+      background-repeat: no-repeat;
+      background-position: right center; */
+      background: url(../images/ico_triangle.png) no-repeat 97% center;
+      font-family: Arial;
+      font-weight: normal;
+      font-size: 1.2rem;
+      font-style: normal;
+      text-decoration: none;
+      width: calc(100% - 29px);
+      height: 19px;
+      line-height: 1.6;
+      padding: 15px 15px 13px;
+      vertical-align: middle;
+      text-align: left;
+      transition: 0.2s ease-in-out;
+   }
+   #wb_CssMenu2 li:hover a, #wb_CssMenu2 a:hover
+   {
+      color: #D7092F;
+      background-color: transparent;
+      background-image: url(../images/ico_triangle.png);
+      background-repeat: no-repeat;
+      background-position: right center;
+      border: 0px #2E6DA4 solid;
+   }
+}
+@media all and (max-width: 755px) {
+   #left-side{
+      width: 68%;
+      left: 21%;
+   }
+   #right-side{
+      width: 95%;
+      left: 2.5%;
+   }
+   #wb_Text38
+   {
+      font-size: 20px;
+   }
+   #wb_Text39
+   {
+      font-size: 40px;
+   }
+   #wb_Text40
+   {
+      font-size: 18px;
+   }
+   #wb_Text41
+   {
+      font-size: 14px;
+   }
+   #wb_Text42
+   {
+      font-size: 20px;
+   }
+   #wb_Image47
+   {
+      left:0;
+      top:59px;
+      width:50px;
+      height:50px;
+   }
+}
+@media all and (max-width: 600px) {
+   #left-side{
+      width: 95%;
+      left: 2.5%;
+   }
+}
+@media all and (max-width: 421px) {
+
+}
+@media all and (max-width: 1140px) {
+   
+}
+@media all and (min-width: 769px) {
+   #wb_CssMenu3{
+      display: none;
+   }
+}
+@media all and (min-width: 1400px) {
+   
+   #wb_Text18 , #wb_Text21, #wb_Text15, #wb_Text24, #wb_Text26, #wb_Text28, #wb_Text30, #wb_Text33
+   {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1C1C1C;
+   }
+   #wb_Text19 , #wb_Text22, #wb_Text23, #wb_Text25, #wb_Text27, #wb_Text29, #wb_Text32, #wb_Text34
+   {
+      font-size: 14px;
+      font-weight: 300;
+      color: #000000;
+   }
+ }
+ @media screen and (min-width: 1700px) {
+   #wb_Text18 , #wb_Text21, #wb_Text15, #wb_Text24, #wb_Text26, #wb_Text28, #wb_Text30, #wb_Text33
+   {
+      font-size: 20px;
+      font-weight: 600;
+      color: #1C1C1C;
+   }
+   #wb_Text19 , #wb_Text22, #wb_Text23, #wb_Text25, #wb_Text27, #wb_Text29, #wb_Text32, #wb_Text34
+   {
+      font-size: 16px;
+      font-weight: 300;
+      color: #000000;
+   }
+ }
+ @media screen and (min-width: 2000px) {
+   #wb_Text18 , #wb_Text21, #wb_Text15, #wb_Text24, #wb_Text26, #wb_Text28, #wb_Text30, #wb_Text33
+   {
+      font-size: 20px;
+      font-weight: 600;
+      color: #1C1C1C;
+   }
+   #wb_Text19 , #wb_Text22, #wb_Text23, #wb_Text25, #wb_Text27, #wb_Text29, #wb_Text32, #wb_Text34
+   {
+      font-size: 20px;
+      font-weight: 300;
+      color: #000000;
+   }
+ }
+

@@ -1,10 +1,545 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>ORIX</title>
-  </head>
-  <body>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>web Orixrentec</title>
+<link href="cupertino/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="Untitled1.css" rel="stylesheet" type="text/css">
+<link href="./font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="index.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="jquery.ui.core.min.js"></script>
+<script type="text/javascript" src="jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="jquery.ui.mouse.min.js"></script>
+<script type="text/javascript" src="jquery.ui.sortable.min.js"></script>
+<script type="text/javascript" src="jquery.ui.tabs.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+   $("#RollOverText1").hover(function()
+   {
+      var y = $(this).height() - $(".caption", this).height();
+      $(".caption", this).css("top", y);
+      $(".caption", this).stop().animate({opacity: 0.00},{queue:false, duration:500});
+   }, function()
+   {
+      $(".caption", this).stop().animate({opacity: 0},{queue:false, duration:500});
+   });
+   var jQueryTabs1Options =
+   {
+      show: false,
+      event: 'click',
+      collapsible: false
+   };
+   $("#jQueryTabs1").tabs(jQueryTabs1Options);
+});
+</script>
+</head>
+<body>
+<div id="RollOverText1" style="overflow:hidden;position:absolute;left:0px;top:140px;width:100%;height:400px;z-index:104;">
+   <img alt="Title" class="image" src="images/img_video@2x(1).png">
+   <div class="caption">
+      <div class="title">Title</div>
+      <p class="description">Image description goes here</p>
+      <a class="link" href="">More information</a>
+   </div>
+</div>
+<div id="wb_Text2">
+<span >ICT</span><span >の全体最適化をサポート</span></div>
+<div id="wb_Text3">
+<span >ICT</span><span>資産</span><span>、</span><span >サービスの導入から運用までトータルにお引き受けします</span></div>
+<div id="jQueryTabs1" style="position:absolute;left:0px;top:540px;width:100%;height:1450px;z-index:95;">
+<ul>
+<li><a href="#jquerytabs1-page-0"><span>課題から探す</span></a></li>
+<li><a href="#jquerytabs1-page-1"><span>商品・サービスカテゴリから探す</span></a></li>
+</ul>
+<div style="height:1350px;overflow:auto;padding:0;" id="jquerytabs1-page-0">
 
-  </body>
+<div id="wb_Shape5" style="position:absolute;left:38.334%;top:631px;width:280px;height:326px;z-index:8;">
+   <img src="images/img0002.png" id="Shape5" alt="" style="width:280px;height:326px;">
+   <div id="wb_Image17" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:21;">
+      <a href="./InterSafe_CATS/index.html">
+         <img src="images/bg-2@2x(6).png" id="Image17" alt="">
+      </a>
+   </div>
+   <div id="wb_Text14" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:31;">
+      <a href="./InterSafe_CATS/index.html">
+         <span>社員のPCからの安全な<br>Webアクセスを実現したい<br>（InterSafe CATS）</span>
+      </a>
+   </div>
+</div>
+
+<div id="wb_Shape11" style="position:absolute;left:66.667%;;top:996px;width:280px;height:326px;z-index:9;">
+   <img src="images/img0003.png" id="Shape11" alt="" style="width:280px;height:326px;">
+   <div id="wb_Image20" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:24;">
+      <a href="./softwarerental/index.html">
+         <img src="images/bg-2@2x(7).png" id="Image20" alt="">
+      </a>
+   </div>
+   <div id="wb_Text18" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:35;">
+      <a href="./softwarerental/index.html">
+         <span >ソフトウエアもハードウエアと<br>同様にレンタルで必要な<br>期間だけ使いたい</span>
+      </a>
+   </div>
+</div>
+
+<div id="wb_Shape10" style="position:absolute;left: 38.334%;top:996px;width:280px;height:326px;z-index:10;">
+   <img src="images/img0004.png" id="Shape10" alt="" style="width:280px;height:326px;">
+   <div id="wb_Image19" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:23;">
+      <a href="./hardware_rental/index.html">
+         <img src="images/bg-3@2x(4).png" id="Image19" alt="">
+      </a>
+   </div>
+   <div id="wb_Text17" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:34;">
+      <a href="./hardware_rental/index.html">
+         <span >常に最新で高品質のハードウエアで<br>生産性を高めたい</span>
+      </a>   
+   </div>
+</div>
+
+<div id="wb_Shape9" style="position:absolute;left:10%;top:996px;width:280px;height:326px;z-index:11;">
+<img src="images/img0005.png" id="Shape9" alt="" style="width:280px;height:326px;">
+<div id="wb_Image21" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:25;">
+   <img src="images/bg-4@2x(2).png" id="Image21" alt=""></div>
+<div id="wb_Text16" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:33;">
+      <span >PCの導入から運用、<br>撤去までの運用を<br>アウトソーシングしたい</span></div>
+</div>
+
+<div id="wb_Shape8" style="position:absolute;left:66.667%;top:631px;width:280px;height:326px;z-index:12;">
+<img src="images/img0006.png" id="Shape8" alt="" style="width:280px;height:326px;">
+<div id="wb_Image16" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:20;">
+   <a href="./InfoTrace-OnDemand/index.html">
+      <img src="images/bg-5@2x(1).png" id="Image16" alt="">
+   </a>
+</div>
+<div id="wb_Text15" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:32;">
+   <a href="./InfoTrace-OnDemand/index.html">
+      <span >PC利用状況の可視化や<br>ログ管理をしたい<br>（Info Trace-OnDemand）</span>
+   </a>
+   </div>
+</div>
+
+<div id="wb_Shape4" style="position:absolute;left:10%;top:631px;width:280px;height:326px;z-index:13;">
+   <img src="images/img0007.png" id="Shape4" alt="" style="width:280px;height:326px;">
+   <div id="wb_Image18" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:22;">
+      <a href="./Microsoft_365___Office_365/index.html"><img src="images/bg-7@2x(1).png" id="Image18" alt=""></a></div>
+   <div id="wb_Text13" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:30;">
+      <a href="./Microsoft_365___Office_365/index.html">
+         <span>常に最新のOfficeアプリケーションと<br>コラボレーションを実現したい<br>（Microsoft 365 / Office 365）​</span>
+      </a>
+   </div>
+</div>
+
+<div id="wb_Shape3" style="position:absolute;left:66.6667%;top:264px;width:280px;height:326px;z-index:14;">
+<img src="images/img0008.png" id="Shape3" alt="" style="width:280px;height:326px;">
+<div id="wb_Image15" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:19;">
+   <a href="./BizMobile_Go!/index.html">
+      <img src="images/bg-6@2x.png" id="Image15" alt="">
+   </a>
+</div>
+   <div id="wb_Text12" style="position:absolute;top:71%;width:100%;height:60px;text-align:center;z-index:29;">
+      <a href="./BizMobile_Go!/index.html">
+         <span>あらゆるデバイスを遠隔で、<br>簡単に、一元管理したい<br>（BizMobile Go!）​</span>
+      </a>
+   </div>
+</div>
+
+<div id="wb_Shape2" style="position:absolute;left:38.334%;top:264px;width:280px;height:326px;z-index:15;">
+<img src="images/img0009.png" id="Shape2" alt="" style="width:280px;height:326px;">
+<div id="wb_Image14" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:18;">
+   <a href="./ISMCloudOne/index.html"><img src="images/bg-23.png" id="Image14" alt=""></a></div>
+   <div id="wb_Text11" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:28;">
+      <a href="./ISMCloudOne/index.html">
+         <span>ICT資産の効率運用と<br>自動セキュリティー診断をしたい<br>（ISM CloudOne）​</span>
+      </a>
+   </div>
+</div>
+
+<div id="wb_Shape1" style="position:absolute;left:10%;top:264px;width:280px;height:326px;z-index:16;">
+   <img src="images/img0010.png" id="Shape1" alt="" style="width:100%;height:326px;">
+   <div id="wb_Image13" style="position:absolute;left:0;top:0;width:100%;height:200px;z-index:17;">
+      <a href="./shadowdesktop/index.html"><img src="images/bg-9@2x(1).png" id="Image13" alt=""></a></div>
+   <div id="wb_Text10" style="position:absolute;top:71%;width:100%;height:56px;text-align:center;z-index:27;">
+      <a href="./shadowdesktop/index.html">
+         <span>持ち出しPCの情報漏洩対策をし<br>セキュリティー対策をしたい<br>（Shadow Desktop）​</span>
+      </a>
+   </div>
+</div>
+
+<div id="wb_Text9">
+<span >働き方改革を推進</span></div>
+</div>
+<div style="height:1350px;overflow:auto;padding:0;" id="jquerytabs1-page-1">
+<div id="wb_Image3" style="position:absolute;left:701px;top:301px;width:0px;height:0px;z-index:36;">
+<img src="" id="Image3" alt=""></div>
+
+<div style="position:absolute;left:calc(50% - 480px);top:1030px;width: 960px; height: 430px;">
+   <div id="wb_Image22" style="position:absolute;left:10%;top:0;z-index:37;">
+      <div id="wb_Text54" style="z-index:41;">
+         <span>PC-LCMサービス</span></div>
+      <img src="images/bg-9@2x.png" id="Image22" alt="">
+   </div>
+   <div id="wb_Image24" style="position:absolute;left:38.334%;top:0;z-index:38;">
+      <div id="wb_Text53" style="z-index:42;">
+         <span>Device as a Service​</span></div>
+   <img src="images/bg-8@2x.png" id="Image24" alt=""></div>
+   <div id="wb_Image23" style="position:absolute;left:66.667%;top:0;z-index:39;">
+      <div id="wb_Text55" style="z-index:43;">
+         <span >ソフトウエアレンタル​</span></div>
+   <img src="images/bg-6@2x.png" id="Image23" alt=""></div>
+   <div id="wb_Image25" style="position:absolute;left:24.1667%;top:50%;z-index:40;">
+      <div id="wb_Text56" style="z-index:44;">
+         <span >データ消去サービス</span></div>
+   <img src="images/bg-4@2x(1).png" id="Image25" alt=""></div>
+   <div id="wb_Image41" style="position:absolute;left:52.5%;top:50%;z-index:87;">
+      <div id="wb_Text57" style="z-index:88;">
+         <span>キッティング・クローニング</span></div>
+   <img src="images/bg-18.png" id="Image41" alt=""></div>
+</div>
+
+
+
+
+
+<div id="wb_Heading1" style="position:absolute;top:160px;width:100%;height:18px;text-align:center;z-index:45;">
+<h2 id="Heading1">導入のメリット</h2>
+<hr id="Line2" style="position:absolute;    left:calc(50% - 30px);
+top: calc(100% + 12px);width:60px;height:1px;z-index:46;">
+</div>
+<div
+style="
+position: absolute;
+width: 100%;
+left: 0;
+top: 233px;
+height: 900px;">
+<div style="position:absolute;left: 3.334%;top:0;width: 44.58333%; height: 180px;">
+<div id="wb_Line4" style="position:absolute;left:200px;top:0;width:1px;height:43px;z-index:47;">
+<img src="images/img0011.png" id="Line4" alt=""></div>
+<div id="wb_Heading8" style="position:absolute;left:220px;top:15px;width:59.8533%;height:30px;z-index:73;">
+   <h3 id="Heading8">Office 365</h3></div>
+<div id="wb_Text19" style="position:absolute;left:220px;top:53px;width:59.8533%;height:17px;z-index:48;text-align:left;">
+<span>Office、メール、情報共有等のビジネス基盤</span></div>
+<input type="button" id="Button2" onclick="window.location.href='./Microsoft_365___Office_365/index.html';return false;" name="働き方改革" value="働き方改革" style="position:absolute;left:220px;top:90px;width:88px;z-index:49;">
+<input type="submit" id="Button3" onclick="window.location.href='./Microsoft_365___Office_365/index.html';return false;" name="オフィスツール" value="オフィスツール" style="position:absolute;left:320px;top:90px;width:122px;z-index:50;">
+<input type="submit" id="Button4" onclick="window.location.href='./Microsoft_365___Office_365/index.html';return false;" name="クラウド" value="クラウド" style="position:absolute;left:220px;top:142px;width:88px;z-index:51;">
+<div id="wb_Image1" style="position:absolute;left:0;top:0;width:180px;height:180px;z-index:52;">
+<a href="./Microsoft_365___Office_365/index.html"><img src="images/グループ 81@2x.png" id="Image1" alt=""></a></div>
+</div>
+<div style="position:absolute;left: 51.667%;top:0;width: 45%; height: 180px;">
+   <div id="wb_Image7" style="position:absolute;left:0;top:0;width:180px;height:180px;z-index:54;">
+      <a href="./shadowdesktop/index.html"><img src="images/bg-4_ワイヤー_クラウドサービス.png" id="Image7" alt=""></a></div>
+      <div id="wb_Heading9" style="position:absolute;left:220px;top:15px;width:59.8533%;height:30px;z-index:85;">
+         <h3 id="Heading9">Shadow Desktop</h3></div>
+         <div id="wb_Text24" style="position:absolute;left:220px;top:53px;width:59.8533%;height:18px;z-index:89;text-align:left;">
+            <span >新発想シンクライアントによる情報漏洩対策</span></div>
+      <div id="wb_Line9" style="position:absolute;left:200px;top:0;width:1px;height:43px;z-index:74;">
+         
+<img src="images/img0016.png" id="Line9" alt=""></div>
+<input type="submit" id="Button5" onclick="window.location.href='./shadowdesktop/index.html';return false;" name="働き方改革" value="働き方改革" style="position:absolute;left:220px;top:93px;width:100px;z-index:75;">
+<input type="submit" id="Button6" onclick="window.location.href='./shadowdesktop/index.html';return false;" name="リモートワーク" value="リモートワーク" style="position:absolute;left:330px;top:93px;width:124px;z-index:76;">
+<input type="submit" id="Button7" onclick="window.location.href='./shadowdesktop/index.html';return false;" name="クラウド" value="クラウド" style="position:absolute;left:220px;top:145px;width:88px;z-index:53;">
+<input type="submit" id="Button20" onclick="window.location.href='./shadowdesktop/index.html';return false;" name="セキュリティ強化" value="セキュリティ強化" style="position:absolute;left:320px;top:145px;width:148px;z-index:84;">
+</div>
+<div style="position:absolute;left: 51.667%;top:220px;width: 45%; height: 244px;">
+   <div id="wb_Line6" style="position:absolute;left:200px;top:0;width:1px;height:43px;z-index:62;">
+      <img src="images/img0013.png" id="Line6" alt=""></div>
+   <div id="wb_Image9" style="position:absolute;left:0;top:0;width:180px;height:180px;z-index:63;">
+      <a href="./BizMobile_Go!/index.html"><img src="images/img_ワイヤー_クラウドサービス.png" id="Image9" alt=""></a></div>
+   <div id="wb_Heading5" style="position:absolute;left:220px;top:15px;width:59.8533%;height:31px;z-index:86;">
+   <h3 id="Heading5">BizMobile Go!</h3></div>
+   <div id="wb_Text21" style="position:absolute;left:220px;top:76px;width:59.8533%;height:64px;z-index:77;text-align:left;">
+      <span>モバイルデバイスのセキュリティ対策、キッ ティング作業・運用の効率化が可能なMDM サービス</span></div>
+      <input type="submit" id="Button11" onclick="window.location.href='./BizMobile_Go!/index.html';return false;" name="クラウド" value="クラウド" style="position:absolute;left:220px;top:160px;width:88px;z-index:78;">
+      <input type="submit" id="Button12" onclick="window.location.href='./BizMobile_Go!/index.html';return false;" name="セキュリティ強化" value="セキュリティ強化" style="position:absolute;left:320px;top:160px;width:136px;z-index:79;">
+      <input type="submit" id="Button13" onclick="window.location.href='./BizMobile_Go!/index.html';return false;" name="情報漏洩回避" value="情報漏洩回避" style="position:absolute;left:220px;top:212px;width:112px;z-index:80;">
+</div>
+<div style="position:absolute;left: 51.667%;top:520px;width: 44.58333%; height: 228px;">
+   <div id="wb_Line8" style="position:absolute;left:200px;top:0;width:1px;height:43px;z-index:71;">
+      <img src="images/img0015.png" id="Line8" alt=""></div>
+      <div id="wb_Image11" style="position:absolute;left:0;top:0;width:180px;height:180px;z-index:72;">
+      <a href="./InfoTrace-OnDemand/index.html"><img src="images/bg-2_ワイヤー_クラウドサービス.png" id="Image11" alt=""></a></div>
+      
+      <div id="wb_Text23" style="position:absolute;left:220px;top:76px;width:59.8533%;height:48px;z-index:90;text-align:left;">
+         <span >PC操作のモニタリングから分析、管理、運 用までを提供するサービス</span></div>
+      <div id="wb_Heading3" style="position:absolute;left:220px;top:15px;width:59.8533%;height:31px;z-index:91;">
+         <h3 id="Heading3">InfoTrace Ondemand 操作ログ管理</h3></div>
+      
+      <input type="submit" id="Button17" onclick="window.location.href='./InfoTrace-OnDemand/index.html';return false;" name="ログ管理" value="ログ管理" style="position:absolute;left:220px;top:144px;width:88px;z-index:81;">
+      <input type="submit" id="Button18" onclick="window.location.href='./InfoTrace-OnDemand/index.html';return false;" name="クラウド" value="クラウド" style="position:absolute;left:340px;top:144px;width:88px;z-index:82;">
+      <input type="submit" id="Button19" onclick="window.location.href='./InfoTrace-OnDemand/index.html';return false;" name="セキュリティ強化" value="セキュリティ強化" style="position:absolute;left:220px;top:196px;width:148px;z-index:83;">
+      
+</div>
+<div style="position:absolute;left: 3.334%;top:220px;width: 44.58333%; height: 222px;">
+   <div id="wb_Heading4" style="position:absolute;left:220px;top:15px;width:59.8533%;height:31px;z-index:55;">
+      <h3 id="Heading4">ISM Cloud One</h3></div>
+   <div id="wb_Line5" style="position:absolute;left:200px;top:0;width:1px;height:43px;z-index:56;">
+      <img src="images/img0012.png" id="Line5" alt=""></div>
+   <div id="wb_Text20" style="position:absolute;left:220px;top:53px;width:59.8533%;height:65px;z-index:57;text-align:left;">
+      <span>PCや複合機などさまざまなIT機器や、インストールソフトを一元管理できるクラウド型IT資産管理ツール</span></div>
+      <input type="submit" id="Button8" onclick="window.location.href='./ISMCloudOne/index.html';return false;" name="資産管理" value="資産管理" style="position:absolute;left:220px;top:138px;width:88px;z-index:58;">
+      <input type="submit" id="Button9" onclick="window.location.href='./ISMCloudOne/index.html';return false;" name="クラウド" value="クラウド" style="position:absolute;left:320px;top:138px;width:88px;z-index:59;">
+      <input type="submit" id="Button10" onclick="window.location.href='./ISMCloudOne/index.html';return false;" name="セキュリティ強化" value="セキュリティ強化" style="position:absolute;left:220px;top:190px;width:148px;z-index:60;">
+      <div id="wb_Image8" style="position:absolute;left:0;top:0;width:180px;height:180px;z-index:61;">
+      <a href="./ISMCloudOne/index.html"><img src="images/bg-3_ワイヤー_クラウドサービス.png" id="Image8" alt=""></a></div>
+</div>
+<div style="position:absolute;left: 3.334%;top:520px;width:45%; height: 222px;">
+   <div id="wb_Heading2" style="position:absolute;left:220px;top:15px;width:59.8533%;height:31px;z-index:64;">
+      <h3 id="Heading2">InterSafe CATS Webフィルタリング​</h3></div>
+      <div id="wb_Line7" style="position:absolute;left:200px;top:0;width:1px;height:43px;z-index:65;">
+      <img src="images/img0014.png" id="Line7" alt=""></div>
+      <div id="wb_Text22" style="position:absolute;left:220px;top:53px;width:59.8533%;height:48px;z-index:66;text-align:left;">
+      <span>マルチデバイス対応クラウド型Webフィル タリング</span></div>
+      <input type="submit" id="Button14" onclick="window.location.href='./InterSafe_CATS/index.html';return false;" name="Webフィルタリング" value="Webフィルタリング" style="position:absolute;left:220px;top:121px;width:150px;z-index:67;">
+      <input type="submit" id="Button15" onclick="window.location.href='./InterSafe_CATS/index.html';return false;" name="クラウド" value="クラウド" style="position:absolute;left:380px;top:121px;width:88px;z-index:68;">
+      <input type="submit" id="Button16" onclick="window.location.href='./InterSafe_CATS/index.html';return false;" name="セキュリティ強化" value="セキュリティ強化" style="position:absolute;left:220px;top:173px;width:148px;z-index:69;">
+      <div id="wb_Image10" style="position:absolute;left:0;top:0;width:180px;height:180px;z-index:70;">
+      <a href="./InterSafe_CATS/index.html"><img src="images/グループ 47_ワイヤー_クラウドサービス1.png" id="Image10" alt=""></a></div>
+
+</div>
+
+</div>
+
+
+</div>
+</div>
+<div id="wb_Image26" style="position:absolute;left:48.75%;top:486px;width:30px;height:30px;z-index:104;">
+   <a href="#jQueryTabs1">
+<img src="images/ic_arrow.png" id="Image26" alt=""></a></div>
+<div id="wb_Image12" style="position:absolute;left:0px;top:1993px;width:100%;height:388px;z-index:97;">
+<img src="images/bg@2x(8).png" id="Image12" alt=""></div>
+<div id="wb_CssMenu2" style="">
+<ul>
+<li class="firstmain"><a href="#" target="_self" title="&#12458;&#12522;&#12483;&#12463;&#12473;&#12464;&#12523;&#12540;&#12503;&#12469;&#12452;&#12488;">&#12458;&#12522;&#12483;&#12463;&#12473;&#12464;&#12523;&#12540;&#12503;&#12469;&#12452;&#12488;</a>
+</li>
+<li><a href="#" target="_self" title="&#12469;&#12452;&#12488;&#12509;&#12522;&#12471;&#12540;">&#12469;&#12452;&#12488;&#12509;&#12522;&#12471;&#12540;</a>
+</li>
+<li><a href="#" target="_self" title="&#12503;&#12521;&#12452;&#12496;&#12471;&#12540;&#12539;&#12509;&#12522;&#12471;&#12540;">&#12503;&#12521;&#12452;&#12496;&#12471;&#12540;&#12539;&#12509;&#12522;&#12471;&#12540;</a>
+</li>
+<li><a href="#" target="_self" title="&#21453;&#31038;&#20250;&#30340;&#21218;&#21147;&#12395;&#23550;&#12377;&#12427;&#22522;&#26412;&#26041;&#37341;">&#21453;&#31038;&#20250;&#30340;&#21218;&#21147;&#12395;&#23550;&#12377;&#12427;&#22522;&#26412;&#26041;&#37341;</a>
+</li>
+<li><a href="#" target="_self" title="&#21476;&#29289;&#21942;&#26989;&#27861;&#12395;&#22522;&#12389;&#12367;&#34920;&#31034;">&#21476;&#29289;&#21942;&#26989;&#27861;&#12395;&#22522;&#12389;&#12367;&#34920;&#31034;</a>
+</li>
+<li><a href="#" target="_self" title="&#35215;&#32004;&#12539;&#32004;&#27454;&#19968;&#35239;">&#35215;&#32004;&#12539;&#32004;&#27454;&#19968;&#35239;</a>
+</li>
+</ul>
+</div>
+<div id="wb_Text35" style="position:absolute;top:2900px;width:100%;height:16px;text-align:center;z-index:99;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Copyright(C) ORIX Rentec Corporation. All rights reserved.</span></div>
+<div id="wb_Image49" style="position: absolute;
+left: calc(50% - 143px);top:2840px;width:286px;height:50px;z-index:100;">
+<a href="https://www.orixrentec.jp/index.html">
+   <img src="images/logo.png" id="Image49" alt="">
+</a>
+</div>
+<div id="wb_Image48" style="    position: absolute;
+width: 40px;
+height: 40px;
+opacity: 0.5;
+z-index: 103;
+left:calc(100% - 70px);
+top:2860px">
+   <a href="#" target="_self">
+<img src="images/arrow_page_top.png" id="Image48" alt=""></a></div>
+
+<div id="wb_Shape6" style="position:absolute;left:0px;top:2379px;width:100%;height:424px;z-index:102;">
+
+<img src="images/img0017.png" id="Shape6" alt="" style="width:100%;height:424px;">
+
+   <div id="wb_Heading6" style="position:absolute;top:60px;width:100%;height:30px;text-align:center;z-index:112;">
+   <h3 id="Heading6">ご相談はこちらから</h3></div>
+   <div id="wb_Heading7" style="position:absolute;top:130px;width:100%;height:16px;text-align:center;z-index:113;">
+   <h3 id="Heading7">お見積もり・ご質問など、お気軽にお問い合わせください。</h3></div>
+
+   <div id="wb_Shape7" style="position:absolute;left: 10%;width:80%;top:184px;height:180px;z-index:103;">
+   <img src="images/img0146.png" id="Shape7" alt="" style="width:100%;height:100%;">
+   <hr id="Line16" style="position:absolute;left:50%;top:30px;width:1px;height:103px;z-index:114;">
+   
+   <div id="wb_Text38" style="position:absolute;left:0;top:30px;width:50%;height:23px;z-index:104;text-align:center;">
+      
+   <span >お電話でご予約／お問い合わせ</span></div>
+   <div id="wb_Text39" style="position:absolute;left:13.75%;top:53px;width:260px;height:54px;z-index:105;text-align:left;">
+   <span >0120-97-4824</span></div>
+   <div id="wb_Text40" style="position:absolute;left:16%;top:112px;width:173px;height:12px;z-index:106;text-align:left;">
+   <span>IP電話専用：03-3473-8437</span></div>
+   <div id="wb_Text41" style="position:absolute;left:16%;top:133px;width:175px;height:12px;z-index:107;text-align:left;">
+   <span>営業時間 (平日9:00 ~ 17:00)</span></div>
+   <div id="wb_Text42" style="position:absolute;left:50%;top:30px;width:50%;height:23px;text-align:center;z-index:108;">
+   <span >ネットでお問い合わせ</span></div>
+   <div id="wb_Image51" style="position:absolute;left:9.51354%;top:62.11px;width:28px;height:28px;z-index:110;">
+   <img src="images/ic_phone@2x.png" id="Image51" alt=""></div>
+
+   <div id="wb_Image52" style="">
+      <a href="https://www.orixrentec.jp/index.html">
+         <img src="images/ic_message@2x.png" id="Image52" alt="">
+      </a>
+      <input type="button" id="Button21" onclick="window.location.href='https://www.orixrentec.jp/index.html';return false;" name="お問い合わせ" value="お問い合わせ" style="">
+   </div>
+
+</div>
+   
+</div>
+
+
+<div id="wb_Text4" >
+<span>SCROLL</span></div>
+<div style="position: absolute;top:2133px; left: calc(50% - 560px);
+width: 1120px;height: 188px;">
+<div id="wb_Image4" style="left:0;top:0;z-index:116;">
+   <a href="https://go.orixrentec.jp/rentecinsight/video/it/article-9">
+      <img src="images/video_3-1@2x(1).png" id="Image4" alt="">
+      <hr id="Line3" style="position:absolute;top:calc(100% + 30px);width:4px;height:32px;z-index:118;">
+      <div id="wb_Text28" style="position:absolute;left:7%;top:calc(100% + 30px);z-index:117;text-align:left;">
+         <span>クラウドに対応したVPRO端末向けの管理ツール インテルEMAとは</span></div>
+   </a>
+   
+</div>
+
+<div id="wb_Image2" style="left:25%;top:0;z-index:119;">
+   <a href="https://go.orixrentec.jp/rentecinsight/video/it/article-6">
+      <img src="images/video_1@2x.png" id="Image2" alt="">
+      <hr id="Line1" style="position:absolute;top:calc(100% + 30px);width:4px;height:32px;z-index:122;">
+      <div id="wb_Text1" style="position:absolute;left:7%;top:calc(100% + 30px);z-index:125;text-align:left;">
+         <span>Office365 TEAMSを活用した経営効率向上とは</span></div>
+   </a>
+</div>
+
+<div id="wb_Image5" style="left:50% ;top:0;z-index:120;">
+   <a href="https://go.orixrentec.jp/rentecinsight/video/it/article-4">
+      <img src="images/video_3@2x(1).png" id="Image5" alt="">
+      <hr id="Line10" style="position:absolute;top:calc(100% + 30px);width:4px;height:32px;z-index:123;">
+
+      <div id="wb_Text8" style="position:absolute;left:7%;top:calc(100% + 30px);z-index:126;text-align:left;">
+         <span>本格化するテレワーク時代に向けて、VDIの課題を一挙解決する新たなコ…</span></div>
+   </a>
+
+</div>
+<div id="wb_Image6" style="left:75%;top:0;z-index:121;">
+   <a href="https://go.orixrentec.jp/rentecinsight/video/it/article-8">
+      <img src="images/video_4@2x.png" id="Image6" alt="">
+      <hr id="Line11" style="position:absolute;top:calc(100% + 30px);width:4px;height:32px;z-index:124;">
+      <div id="wb_Text25" style="position:absolute;left:7%;top:calc(100% + 30px);z-index:127;text-align:left;">
+         <span>サイバー攻撃のリスクを軽減するHPE ProLiantとは</span></div>
+   </a>
+
+</div>
+</div>
+<div id="wb_Heading10" style="position:absolute;top:2058px;width:100%;height:24px;z-index:128;">
+<h2 id="Heading10">お役立ち情報コラム</h2></div>
+<div id="PageHeader1" style="position:fixed;text-align:center;left:0;top:0;right:0;height:156px;z-index:7777;">
+<div id="PageHeader1_Container" style="height:100%;width:100%;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+   <div class="header">
+      <div class="header__content">
+         <div class="header__left-col">
+            
+            <p class="header__logo">
+               <a href="https://www.orixrentec.jp/index.html">
+                  <img src="images/logo.png"  alt="" width="189">
+               </a>
+            </p>
+               
+         </div>
+         <div class="header__right-col">
+            
+            <div id="wb_Text6" style="">
+               <span>IP電話専用：03-3473-8437</span>
+            </div>
+            <div id="wb_Text7" style="">
+               <span>営業時間 (平日9:00 ~ 17:00)</span>
+            </div>
+            
+            
+            <div id="wb_Image45" style="position:absolute;left:67.334%;top:20px;width:179px;height: 22px;z-index:4;">
+               <img src="images/ic_phone.png" id="Image45" alt="">
+               <div id="wb_Text5" style="">
+                  <span style="">0120-97-4824</span>
+               </div>
+            </div>
+            
+            <div id="wb_Image46" style="">
+               <a href="https://www.orixrentec.jp/index.html">
+                  <img src="images/ic_message.png" id="Image46" alt="">
+               </a>
+               <input type="button" id="Button1" onclick="window.location.href='https://www.orixrentec.jp/index.html';return false;" name="お問い合わせ" value="お問い合わせ" style="">
+            </div>
+         </div>
+            
+      </div>
+         
+   </div>
+   <div id="wb_CssMenu1" style="z-index:7;">
+      <ul>
+         <li class="firstmain"  id="l1" ><a href="./index.html" target="_self" style=" width: 100%;">TOP</a>
+         </li>
+         <li  id="l2" ><a href="./wire_cloudservice/index.html" target="_self" title="クラウドサービス" style=" width: 100%;">クラウドサービス</a>
+         </li>
+         <li  id="l3" ><a href="./DaaS/index.html" target="_self" style=" width:100%;">DaaS</a>
+         </li>
+         <li  id="l4" ><a href="./PC-LCM/index.html" target="_self" style=" width: 100%;">PC-LCM</a>
+         </li>
+         <li  id="l5" ><a href="./hardware_rental/index.html" target="_self" title="ハードウエア レンタル" style=" width: 100%;"><div id="l55">ハードウエア<br>>レンタル</div></a>
+         </li>
+         <li  id="l6" ><a href="./softwarerental/index.html" target="_self" title="ソフトウエア レンタル" style=" width: 100%;"><div id="l66">ソフトウエア<br>>レンタル</div></a>
+         </li>
+         <li  id="l7" ><a href="./Data_Erasure_Solution_Service/index.html" target="_self" title="データ消去 サービス" style=" width:100%;"><div id="l77">データ消去<br>>サービス</div></a>
+         </li>
+         <li  id="l8" ><a href="./Kittingandcloningservices/index.html" target="_self" title="キッティング・ クローニングサービス" style=" width: 100%;"><div id="l88">キッティング・<br>>クローニングサービス</div></a>
+         </li>
+      </ul>
+   </div>
+   <div class="header__mob">
+      <div class="header__content">
+         <div class="header__left-col">
+            <p class="header__logo">
+               <a href="https://www.orixrentec.jp/index.html">
+                  <img src="./images/logo.png"  alt="" width="88%">
+               </a>
+            </p>
+         </div>
+         <div class="header__right-col">
+            <div id="wb_Image50" onclick="myFunction()">
+               <i class="fa fa-bars" aria-hidden="true"></i></div>
+             <div id="wb_Image51" >
+               <i class="fa fa-envelope" aria-hidden="true"></i></div>         
+         </div>
+      </div>
+    </div>
+
+   <div id="wb_CssMenu3" class="hide" style="z-index:7;">
+      <ul>
+         <li class="firstmain" id="l31" ><a href="./index.html" target="_self" style=" width: -webkit-fill-available;">TOP</a>
+         </li>
+         <li id="l32" ><a href="./wire_cloudservice/index.html" target="_self" title="クラウドサービス" style=" width: -webkit-fill-available;">クラウドサービス</a>
+         </li>
+         <li id="l33" ><a href="./DaaS/index.html" target="_self" style=" width:-webkit-fill-available;">DaaS</a>
+         </li>
+         <li id="l34" ><a href="./PC-LCM/index.html" target="_self" style=" width: -webkit-fill-available;">PC-LCM</a>
+         </li>
+         <li id="l35" ><a href="./hardware_rental/index.html" target="_self" title="ハードウエア レンタル" style=" width: -webkit-fill-available;"><span>ハードウエア レンタル</span></a>
+         </li>
+         <li id="l36" ><a href="./softwarerental/index.html" target="_self" title="ソフトウエア レンタル" style=" width: -webkit-fill-available;"><span>ソフトウエア レンタル</span></a>
+         </li>
+         <li id="l37" ><a href="./Data_Erasure_Solution_Service/index.html" target="_self" title="データ消去 サービス" style=" width:-webkit-fill-available;"><span>データ消去 サービス</span></a>
+         </li>
+         <li id="l38" ><a href="./Kittingandcloningservices/index.html" target="_self" title="キッティング・ クローニングサービス" style=" width: -webkit-fill-available;"><span>キッティング・ クローニングサービス</span></a>
+         </li>
+      </ul>
+    </div>
+    </div>
+    </div>
+
+    <script>
+      function myFunction() {
+        var x = document.getElementById("wb_CssMenu3");
+        console.log(x)
+        if (x.className.indexOf("show") == -1) { 
+          x.className = "show";
+        } else {
+         x.className = "hide";
+        }
+      }
+   </script>
+</body>
 </html>

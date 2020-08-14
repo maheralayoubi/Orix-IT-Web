@@ -1,0 +1,309 @@
+html {
+   scroll-behavior: smooth;
+ }
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+h1
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h2
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 27px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h3
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 24px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h4
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h5
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h6
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000080;
+   background-color: transparent;
+}
+.RobotoBold8 {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 8px;
+   color: #022C50;
+   letter-spacing: 0;
+   line-height: 8;
+}
+.RobotoBold40 {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 40px;
+   color: #022C50;
+   letter-spacing: 20;
+   line-height: 47;
+}
+.RobotoBold14black {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 14px;
+   color: #000000;
+   letter-spacing: 50;
+   line-height: 90;
+}
+.RobotoBold14White {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 14px;
+   color: #ffffff;
+   letter-spacing: 50;
+   line-height: 90;
+}
+.RobotoBold30 {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 30px;
+   color: #ffffff;
+   letter-spacing: 50;
+   line-height: 90;
+}
+.SegoeUIRegular40{
+   font-family:"Segoe UI";
+   font-weight: "Regular";
+   font-size: 40px;
+   color: #D83B01;
+   letter-spacing: 0;
+   line-height: 36;
+}
+.RobotoBold4 {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 4px;
+   color: #022C50;
+   letter-spacing: 0;
+   line-height: 5;
+}
+.RobotoBold22 {
+   font-family:"Roboto";
+   font-weight: bold;
+   font-size: 22px;
+   color: #022C50;
+   letter-spacing: 20;
+   line-height: 36;
+}
+.S90S20 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 12px;
+   color: #022C50;
+   letter-spacing: 20;
+   line-height: 20;
+}
+.HiraginoSansW624 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 24px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 41;
+}
+.HiraginoSansW312 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 300;
+   font-size: 12px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 18;
+}
+.HiraginoSansW316 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 300;
+   font-size: 16px;
+   color: #000000;
+   letter-spacing: 0;
+   line-height: 24;
+}
+.HiraginoSansW618S36 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 18px;
+   color: #1c1c1c;
+   letter-spacing: 0;
+   line-height: 36;
+}
+.HiraginoSansW618S18 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 18px;
+   color: #1c1c1c;
+   letter-spacing: 0;
+   line-height: 18;
+}
+.HiraginoSansW621 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 21px;
+   color: #f66722;
+   letter-spacing: 0;
+   line-height: 90;
+}
+.HiraginoSansW618S90 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 18px;
+   color: #08246f;
+   letter-spacing: 0;
+   line-height: 90;
+}
+.HiraginoSansW314 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 300;
+   font-size: 14px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 18;
+}
+.HiraginoSansW612S18White {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 12px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 18;
+}
+.HiraginoSansW618S90White {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 18px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 90;
+}
+.HiraginoSansW660 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 60px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 90;
+}
+.HiraginoSansW68 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 8px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 90;
+}
+.HiraginoSansW618S31 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 18px;
+   color: #ffffff;
+   letter-spacing: 0;
+   line-height: 31;
+}
+.HiraginoSansW612S90 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 12px;
+   color: #022c50;
+   letter-spacing: 0;
+   line-height: 90;
+}
+.HiraginoSansW612S18 {
+   font-family: "Hiragino Sans"; 
+   font-weight: 600;
+   font-size: 12px;
+   color: #022c50;
+   letter-spacing: 0;
+   line-height: 18;
+}
+.HiraginoSansW312S20{
+   font-family: "Hiragino Sans"; 
+   font-weight: 300;
+   font-size: 12px;
+   color: #022c50;
+   letter-spacing: 20;
+   line-height: 18;
+}
